@@ -1,0 +1,7 @@
+name = "cloudflare-imgbed-ywq"
+pages_build_output_dir = "./frontend-dist"
+compatibility_date = "2026-08-13"
+
+[[kv_namespaces]]
+binding = "img_url"
+id = "c6c3119402704b2dbc88244c508c1d26"
