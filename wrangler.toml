@@ -5,3 +5,5 @@ compatibility_date = "2026-08-12"
 [[kv_namespaces]]
 binding = "img_url"
 id = "c6c3119402704b2dbc88244c508c1d26"
+[secrets]
+required = ["RESET_KEY"]
